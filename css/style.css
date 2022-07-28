@@ -2,3 +2,7 @@
     height: 85vh;
     opacity: .75;
 }
+
+.company-logo img {
+    width: 100px;
+}
