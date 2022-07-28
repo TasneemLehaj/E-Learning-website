@@ -1,6 +1,7 @@
 .slider-img {
     height: 85vh;
     opacity: .75;
+    object-fit: cover;
 }
 
 .company-logo img {
